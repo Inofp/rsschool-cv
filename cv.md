@@ -1,10 +1,10 @@
 ## Aleksey Khvalko
-##### Junior Developer
+#### Junior Developer
 ### Contacts
-Telegram: @arimafp
-[Github](https://github.com/Inofp)
-Minsk, Belarus
-Discord: Arima#1024
+* Telegram: @arimafp
+* [Github](https://github.com/Inofp)
+* Minsk, Belarus
+* Discord: Arima#1024
 ### About me
 Got some experience in Back-end, and now wanna try myself in Front-end, cuz really love to learn some new features.
 ### Skills
@@ -20,8 +20,8 @@ if (coffee.Empty) {
 }
 ```
 ### Work experience
-No worked yet, only some solo educational projects at .Net Development EPAM course.
-Project example: [Gcd](https://github.com/Inofp/gcd)
+No worked yet, only some solo educational projects at .Net Development EPAM course.  
+Project example: [Gcd](https://github.com/Inofp/gcd).
 
 ### Education
 * Belarusian State University. Information technology. 3 course/4.
@@ -30,5 +30,5 @@ Project example: [Gcd](https://github.com/Inofp/gcd)
 * [.Net Development EPAM](https://training.by/Training/Details/2962?lang=en) half-course completed(in process).
 
 ### Language
-Russian - Native.
+Russian - Native.  
 English - B1 (Intermediate) (EPAM UNIVERSITY PROGRAM english test result)
