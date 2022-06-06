@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Inofp.github.io/rsschool-cv/
