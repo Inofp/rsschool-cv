@@ -2,7 +2,7 @@
 ##### Junior Developer
 ### Contacts
 Telegram: @arimafp
-+375298419695
+[Github](https://github.com/Inofp)
 Minsk, Belarus
 Discord: Arima#1024
 ### About me
@@ -24,13 +24,10 @@ No worked yet, only some solo educational projects at .Net Development EPAM cour
 Project example: [Gcd](https://github.com/Inofp/gcd)
 
 ### Education
-Belarusian State University. Information technology. 3 course/4.
-
-[Sololearn](https://www.sololearn.com/profile/9240265) C#, C++, HTML, SQL, R, Python Courses completed.
-
-[Ulearn](ulearn.me) C# half-course completed(in process). 
-
-[.Net Development EPAM](https://training.by/Training/Details/2962?lang=en) half-course completed(in process).
+* Belarusian State University. Information technology. 3 course/4.
+* [Sololearn](https://www.sololearn.com/profile/9240265) C#, C++, HTML, SQL, R, Python Courses completed.
+* [Ulearn](ulearn.me) C# half-course completed(in process). 
+* [.Net Development EPAM](https://training.by/Training/Details/2962?lang=en) half-course completed(in process).
 
 ### Language
 Russian - Native.
