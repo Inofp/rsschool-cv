@@ -5,6 +5,7 @@
 * [Github](https://github.com/Inofp)
 * Minsk, Belarus
 * Discord: Arima#1024
+
 ### About me
 Got some experience in Back-end, and now wanna try myself in Front-end, cuz really love to learn some new features.
 ### Skills
@@ -31,4 +32,4 @@ Project example: [Gcd](https://github.com/Inofp/gcd).
 
 ### Language
 Russian - Native.  
-English - B1 (Intermediate) (EPAM UNIVERSITY PROGRAM english test result)
+English - B1 (EPAM UNIVERSITY PROGRAM english test result)
